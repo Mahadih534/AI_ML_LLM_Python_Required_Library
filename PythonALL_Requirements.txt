@@ -1,0 +1,2 @@
+
+pip install langchain llama-index metplotlib pandas torch scikit-learn seaborn plotly spacy nltk corenlp transformers[torch]  sentence-transformers
